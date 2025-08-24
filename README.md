@@ -1,1 +1,3 @@
-# commerce-plan2408
+# Project Repository
+
+This is the initial README file for the project.
